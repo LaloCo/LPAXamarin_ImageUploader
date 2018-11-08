@@ -1,0 +1,2 @@
+\\Mac\Home\Documents\repos\ImageUploader\ImageUploader\ImageUploader.Android\obj\Debug\MonoAndroid81\ImageUploader.Android.csprojAssemblyReference.cache
+\\Mac\Home\Documents\repos\ImageUploader\ImageUploader\ImageUploader.Android\obj\Debug\MonoAndroid81\res.flag
