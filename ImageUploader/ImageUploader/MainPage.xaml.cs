@@ -43,6 +43,8 @@ namespace ImageUploader
             }
 
             selectedImage.Source = ImageSource.FromStream(() => selectedImageFile.GetStream());
+
+            UploadImages(selectedImageFile.GetStream());
         }
 
         private async void UploadImages(Stream stream)
